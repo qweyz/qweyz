@@ -1,5 +1,6 @@
 <h1 align="center">qweyz</h1>
-<h3 align="left">Connect with me:</h3>
+
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/https://x.com/xqweyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/xqweyz" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/1252070260451053633/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1252070260451053633/" height="30" width="40" /></a>
